@@ -2,7 +2,6 @@
 
 ![Profile Picture](https://github.com/gokul1509/Hackfest/assets/118507112/66d28614-5b34-4677-9e60-7c710eb645d2)
 
-
 ## Table of Contents
 - [About](#about)
 - [Features](#features)
